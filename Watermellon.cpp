@@ -6,7 +6,7 @@ int main() {
 
     cin >> w;
 
-    if(w % 2 == 0 and w > 2){
+    if(w % 2 == 0 and w > 2){   // Se o número for par e maior que 2
         cout << "YES";
     }else{
         cout << "NO";
